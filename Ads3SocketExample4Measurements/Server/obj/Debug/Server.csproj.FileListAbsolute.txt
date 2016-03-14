@@ -31,3 +31,6 @@ Y:\Makela_Petteri\AUTE14\Verkko-ohjelmointi\Ads\Ads3SocketExample4Measurements\S
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\Tentti\Tehtava4\Ads3SocketExample4Measurements\Server\bin\Debug\Server.exe.config
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\Tentti\Tehtava4\Ads3SocketExample4Measurements\Server\obj\Debug\Server.exe
 Y:\Makela_Petteri\TITE14\Verkko-ohjelmointi\Tentti\Tehtava4\Ads3SocketExample4Measurements\Server\obj\Debug\Server.pdb
+C:\tmp\Tehtava4\Ads3SocketExample4Measurements\Server\bin\Debug\Server.exe.config
+C:\tmp\Tehtava4\Ads3SocketExample4Measurements\Server\obj\Debug\Server.exe
+C:\tmp\Tehtava4\Ads3SocketExample4Measurements\Server\obj\Debug\Server.pdb

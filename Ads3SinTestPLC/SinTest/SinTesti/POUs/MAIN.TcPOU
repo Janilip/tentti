@@ -32,6 +32,8 @@ END_VAR
     <Implementation>
       <ST><![CDATA[
 timer1.IN := TRUE;   // timer päälle
+
+// kommentti
   
 IF reset THEN
 	  step := 0;

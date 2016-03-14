@@ -11,6 +11,9 @@ namespace Client
 {
     class Program
     {
+
+        // nimellinen muokkaus
+
         static void Main(string[] args)
         {
             // avataan yhteys palvelimelle (tehdään yhteyspyyntö)

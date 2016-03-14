@@ -12,6 +12,9 @@ namespace Server
 {
     class Program
     {
+
+        // nimellinen muokkaus
+        // uusi kommentti
         static void Main(string[] args)
         {
             IPAddress ipAddress = IPAddress.Parse("127.0.0.1");
